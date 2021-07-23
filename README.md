@@ -1,4 +1,10 @@
-### Hi there 👋
+### Hello! 👋
+
+I've just completed a 3-month full-time Data Science bootcamp. I feel like I've just scratched the surface and have so much more to learn.
+
+Cheers,  
+Fiona.  
+(July 2021)
 
 [Link to my portfolio](https://fiona-dee.github.io) 
 
