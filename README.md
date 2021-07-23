@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+[Link to my portfolio](https://fiona-dee.github.io) 
+
 <!--
 **fiona-dee/fiona-dee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
